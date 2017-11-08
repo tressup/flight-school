@@ -8,4 +8,3 @@ pushd flight-school
 popd
 
 uname -a
-rpm -qa
