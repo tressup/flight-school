@@ -12,3 +12,6 @@ jobs:
     trigger: true
   - task: tests
     file: flight-school/build.yml
+  - run:
+    path: uname
+    args: [-a]
