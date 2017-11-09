@@ -8,3 +8,4 @@ pushd flight-school
 popd
 
 uname -a
+echo "BUILD COMPLETED"
